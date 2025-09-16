@@ -1,0 +1,95 @@
+/* Tag element selector */
+
+/* h1{
+    background-color: pink;
+}
+
+h2{
+    background-color: yellow;
+}
+
+ul{
+    background-color: aquamarine;
+} */
+
+/* id base selection # base selection */
+
+/* #first{
+    background-color: blanchedalmond;
+}
+
+#second{
+    background-color: pink;
+} */
+
+/* class base selection .base selection */
+
+/* .third{
+    background-color: red;
+}
+
+.fourth{
+    background-color: greenyellow;
+} */
+
+/* group base selection */
+
+/* h1 , h2, fourth{
+    background-color: aqua;
+} */
+
+/* h2{
+    background-color: rgba(73, 55, 129, 0.458);
+}
+
+h1{
+    background-color: hsla(120, 30%, 40%, 0.329);
+} */
+
+/* h2{
+    background-color: #567457;
+} */
+/* 
+h1{
+    font-size: 40px;
+}
+
+ul{
+    font-size: 20px;
+}
+
+li{
+    font-size: 2em;
+}
+
+html{
+    font-size: 40px;
+}
+
+h2{
+    font-size: ;
+} */
+
+/* h2{
+    font-size: 5vw;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+    font-style: italic;
+}
+
+li{
+    font-size: 3vh;
+    font-size: 50%;
+} */
+
+/* li{
+     font-family: "Bitcount Grid Double", system-ui;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0;
+} */
